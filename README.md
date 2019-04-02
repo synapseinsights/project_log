@@ -74,5 +74,6 @@ https://techcrunch.com/2013/05/09/restaurant-discovery-app-dish-fm-becomes-a-bes
 Most similar to our idea = Foodspotting, which was acquired by Opentable
 https://www.wired.com/2012/02/foodspotting-app-rec-updates/
 https://blog.opentable.com/2013/we-are-family-foodspotting-joins-opentable/
-
+https://medium.com/s/story/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe
+https://itunes.apple.com/us/app/plater/id1265468528?mt=8
 
