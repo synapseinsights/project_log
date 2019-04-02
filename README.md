@@ -2,13 +2,13 @@
 Keeping track of business
 
 # Work log
-Launch Reddit & Dartmouth TasteSpace survey (Alex & Jin) 
-Alex
+Launch Reddit & Dartmouth TasteSpace survey (Alex & Jin)   
+Alex:  
 Upper Valley Facebook group?
 https://dailyuv.com/976694
 https://www.reddit.com/r/FoodLosAngeles/comments/b87uz3/tell_us_what_food_you_like_to_order_at_different/
 
-Jin
+Jin:  
 https://www.reddit.com/r/SampleSize/comments/b5xyju/casual_tell_us_what_foods_you_like_to_order_at/
 https://www.reddit.com/r/vegetarian/comments/b6rllq/survey_tell_us_what_foods_you_like_to_order_at/
 https://www.reddit.com/r/Paleo/comments/b7043x/survey_tell_us_the_foods_you_like_to_order_at/
