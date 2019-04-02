@@ -3,8 +3,22 @@ Keeping track of business
 
 # Work log
 Launch Reddit & Dartmouth TasteSpace survey (Alex & Jin) 
-Work on text detection from image (Marissa) 
-Work on skeleton for database (Eshin)
+	Alex
+	Upper Valley Facebook group?
+	https://dailyuv.com/976694
+	https://www.reddit.com/r/FoodLosAngeles/comments/b87uz3/tell_us_what_food_you_like_to_order_at_different/
+
+	Jin
+	https://www.reddit.com/r/SampleSize/comments/b5xyju/casual_tell_us_what_foods_you_like_to_order_at/
+	https://www.reddit.com/r/vegetarian/comments/b6rllq/survey_tell_us_what_foods_you_like_to_order_at/
+	https://www.reddit.com/r/Paleo/comments/b7043x/survey_tell_us_the_foods_you_like_to_order_at/
+	https://www.reddit.com/r/restaurant/comments/b6mulf/survey_tell_us_the_foods_you_like_to_order_at/
+	https://www.reddit.com/r/zerocarb/comments/b6rp9x/survey_tell_us_what_foods_you_like_to_order_at/
+	https://www.reddit.com/r/restaurateur/comments/b6i57f/survey_tell_us_the_foods_you_like_to_order_at/
+	http://www.dartlist.com/?p=149779
+
+Work on text detection from image and video (Marissa) 
+Work on building efficient database for searching and matching (Eshin)
 
 # Pitch Deck
 https://docs.google.com/presentation/d/1yRj0nm-iUL5HCON8BB60lSAS2B0613Z7jg5iEGV3L1Q/edit#slide=id.p
