@@ -17,7 +17,7 @@ https://www.reddit.com/r/zerocarb/comments/b6rp9x/survey_tell_us_what_foods_you_
 https://www.reddit.com/r/restaurateur/comments/b6i57f/survey_tell_us_the_foods_you_like_to_order_at/
 http://www.dartlist.com/?p=149779
 
-Work on text detection from image and video (Marissa) 
+Work on text detection from image and video (Marissa)   
 Work on building efficient database for searching and matching (Eshin)
 
 # Pitch Deck
