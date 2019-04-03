@@ -7,6 +7,10 @@ Alex:
 Upper Valley Facebook group?
 https://dailyuv.com/976694
 https://www.reddit.com/r/FoodLosAngeles/comments/b87uz3/tell_us_what_food_you_like_to_order_at_different/
+https://www.reddit.com/r/FoodNYC/comments/b71eka/tell_us_what_food_you_like_to_order_at_different/
+https://www.facebook.com/groups/UpperValley/?multi_permalinks=10161778726170226&notif_id=1554157461011836&notif_t=feedback_reaction_generic
+undergrad also posted (or had friends post) to each year's Dartmouth Facebook page group.
+Also posted to the Upper Valley Listserve
 
 Jin:  
 https://www.reddit.com/r/SampleSize/comments/b5xyju/casual_tell_us_what_foods_you_like_to_order_at/
@@ -19,6 +23,9 @@ http://www.dartlist.com/?p=149779
 
 Work on text detection from image and video (Marissa)   
 Work on building efficient database for searching and matching (Eshin)
+
+# Interesting package with detailed nutrition information on 8,000 + types of food
+https://github.com/noahtren/noms?utm_source=share&utm_medium=ios_app
 
 # Pitch Deck
 https://docs.google.com/presentation/d/1yRj0nm-iUL5HCON8BB60lSAS2B0613Z7jg5iEGV3L1Q/edit#slide=id.p
